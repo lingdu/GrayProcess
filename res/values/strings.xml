@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GrayProcess</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="wellcome_words">OpenCV4Android，新的体验！欢迎加入OpenCV4Android开发联盟，qq群：66320324,备注yanzi</string>
+
+</resources>
